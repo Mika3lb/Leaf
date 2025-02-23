@@ -1,1 +1,1 @@
-3D Voxel Engine on Python
+Leaf - is programm which can work with symbols and equations
